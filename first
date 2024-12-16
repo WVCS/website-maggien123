@@ -1,0 +1,30 @@
+<html> 
+  <head>
+  </head>
+  <body>
+    <center> 
+      <h2> Maggie Nguyen's Website </h2>
+      <img src="https://m.media-amazon.com/images/I/813urBVLlFL._AC_UF894,1000_QL80_.jpg">
+      
+  </body>
+</html>
+
+<style>
+body {
+  background-color: pink;
+}
+h2 {
+  Color: white;
+    text-shadow: 2px 2px 5px red;
+  font-size: 250%; 
+  text-decoration-line: underline;
+  text-decoration-style: dashed;
+  letter-spacing: 6px; 
+  word-spacing: 3px;
+}
+
+img {
+  border-radius: 50%;
+  border: dotted salmon 13px; 
+}
+</style>
